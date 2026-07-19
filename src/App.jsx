@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>hello how are you Krishna</div>
+      <div>hello how are you Saroj </div>
     </>
   )
 }
